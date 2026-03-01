@@ -1,0 +1,5 @@
+
+/home/chumnap/fprime-motorbridge/fprime-3.6/Drv/LinuxI2cDriver/LinuxI2cDriver.cpp
+/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Drv/LinuxI2cDriver/LinuxI2cDriverComponentAi.xml;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Drv/LinuxI2cDriver/LinuxI2cDriverComponentAc.cpp;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Drv/LinuxI2cDriver/LinuxI2cDriverComponentAc.hpp
+/home/chumnap/fprime-motorbridge/fprime-3.6/Drv/LinuxI2cDriver/LinuxI2cDriver.fpp;/home/chumnap/fprime-motorbridge/fprime-3.6/Drv/Interfaces/I2cInterface.fppi
+

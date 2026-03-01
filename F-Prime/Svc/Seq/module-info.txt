@@ -1,0 +1,5 @@
+
+
+/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/Seq/CmdSeqCancelPortAi.xml;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/Seq/CmdSeqInPortAi.xml;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/Seq/CmdSeqCancelPortAc.cpp;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/Seq/CmdSeqCancelPortAc.hpp;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/Seq/CmdSeqInPortAc.cpp;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/Seq/CmdSeqInPortAc.hpp
+/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/Seq/Seq.fpp
+Fw/Port

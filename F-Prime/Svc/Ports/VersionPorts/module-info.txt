@@ -1,0 +1,5 @@
+
+
+/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/Ports/VersionPorts/VersionPortAi.xml;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/Ports/VersionPorts/VersionStatusEnumAi.xml;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/Ports/VersionPorts/VersionPortAc.cpp;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/Ports/VersionPorts/VersionPortAc.hpp;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/Ports/VersionPorts/VersionStatusEnumAc.cpp;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/Ports/VersionPorts/VersionStatusEnumAc.hpp
+/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/Ports/VersionPorts/VersionPorts.fpp
+

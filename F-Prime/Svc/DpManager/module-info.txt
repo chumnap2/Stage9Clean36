@@ -1,0 +1,5 @@
+
+/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/DpManager/DpManager.cpp
+/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/DpManager/DpManagerComponentAi.xml;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/DpManager/DpManagerComponentAc.cpp;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/DpManager/DpManagerComponentAc.hpp
+/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/DpManager/DpManager.fpp
+

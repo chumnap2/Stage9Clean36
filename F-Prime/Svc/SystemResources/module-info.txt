@@ -1,0 +1,5 @@
+
+/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/SystemResources/SystemResources.cpp
+/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/SystemResources/SystemResourceEnabledEnumAi.xml;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/SystemResources/SystemResourcesComponentAi.xml;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/SystemResources/SystemResourceEnabledEnumAc.cpp;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/SystemResources/SystemResourceEnabledEnumAc.hpp;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/SystemResources/SystemResourcesComponentAc.cpp;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/SystemResources/SystemResourcesComponentAc.hpp
+/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/SystemResources/SystemResources.fpp
+Os

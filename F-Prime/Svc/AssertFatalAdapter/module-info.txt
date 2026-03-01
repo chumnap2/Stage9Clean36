@@ -1,0 +1,5 @@
+
+/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/AssertFatalAdapter/AssertFatalAdapterComponentImpl.cpp
+/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/AssertFatalAdapter/AssertFatalAdapterComponentAi.xml;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/AssertFatalAdapter/AssertFatalAdapterComponentAc.cpp;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/AssertFatalAdapter/AssertFatalAdapterComponentAc.hpp
+/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/AssertFatalAdapter/AssertFatalAdapter.fpp;/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/AssertFatalAdapter/AssertFatalEvents.fppi
+

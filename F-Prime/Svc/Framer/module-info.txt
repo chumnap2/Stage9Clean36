@@ -1,0 +1,5 @@
+
+/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/Framer/Framer.cpp
+/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/Framer/FramerComponentAi.xml;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/Framer/FramerComponentAc.cpp;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/Framer/FramerComponentAc.hpp
+/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/Framer/Framer.fpp
+Svc/FramingProtocol

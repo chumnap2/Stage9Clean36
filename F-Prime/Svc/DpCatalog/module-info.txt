@@ -1,0 +1,5 @@
+/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/DpCatalog/DpCatalog.hpp
+/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/DpCatalog/DpCatalog.cpp
+/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/DpCatalog/DpCatalogComponentAi.xml;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/DpCatalog/DpHdrFieldEnumAi.xml;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/DpCatalog/DpRecordSerializableAi.xml;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/DpCatalog/DpCatalogComponentAc.cpp;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/DpCatalog/DpCatalogComponentAc.hpp;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/DpCatalog/DpHdrFieldEnumAc.cpp;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/DpCatalog/DpHdrFieldEnumAc.hpp;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/DpCatalog/DpRecordSerializableAc.cpp;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/DpCatalog/DpRecordSerializableAc.hpp
+/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/DpCatalog/DpCatalog.fpp
+

@@ -1,0 +1,5 @@
+
+/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/ComLogger/ComLogger.cpp
+/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/ComLogger/ComLoggerComponentAi.xml;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/ComLogger/ComLoggerComponentAc.cpp;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/ComLogger/ComLoggerComponentAc.hpp
+/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/ComLogger/ComLogger.fpp;/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/ComLogger/Commands.fppi;/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/ComLogger/Events.fppi
+

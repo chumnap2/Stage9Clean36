@@ -1,0 +1,7 @@
+/home/chumnap/fprime-motorbridge/fprime-3.6/Fw/Cmd/Cmd.fpp
+/home/chumnap/fprime-motorbridge/fprime-3.6/Fw/Log/Log.fpp
+/home/chumnap/fprime-motorbridge/fprime-3.6/Fw/Tlm/Tlm.fpp
+/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/FileManager/Commands.fppi
+/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/FileManager/Events.fppi
+/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/FileManager/Telemetry.fppi
+/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/Ping/Ping.fpp

@@ -1,0 +1,5 @@
+
+/home/chumnap/fprime-motorbridge/fprime-3.6/Fw/Log/LogBuffer.cpp;/home/chumnap/fprime-motorbridge/fprime-3.6/Fw/Log/LogPacket.cpp
+/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Fw/Log/LogPortAi.xml;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Fw/Log/LogSeverityEnumAi.xml;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Fw/Log/LogTextPortAi.xml;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Fw/Log/LogPortAc.cpp;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Fw/Log/LogPortAc.hpp;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Fw/Log/LogSeverityEnumAc.cpp;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Fw/Log/LogSeverityEnumAc.hpp;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Fw/Log/LogTextPortAc.cpp;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Fw/Log/LogTextPortAc.hpp
+/home/chumnap/fprime-motorbridge/fprime-3.6/Fw/Log/Log.fpp
+Fw/Com

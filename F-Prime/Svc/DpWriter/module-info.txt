@@ -1,0 +1,5 @@
+
+/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/DpWriter/DpWriter.cpp
+/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/DpWriter/DpWriterComponentAi.xml;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/DpWriter/DpWriterComponentAc.cpp;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/DpWriter/DpWriterComponentAc.hpp
+/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/DpWriter/DpWriter.fpp
+Fw/Dp

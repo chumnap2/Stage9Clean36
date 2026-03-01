@@ -1,0 +1,6 @@
+/home/chumnap/fprime-motorbridge/fprime-3.6/Drv/ByteStreamDriverModel/ByteStreamDriverModel.fpp
+/home/chumnap/fprime-motorbridge/fprime-3.6/Drv/Interfaces/ByteStreamDriverInterface.fppi
+/home/chumnap/fprime-motorbridge/fprime-3.6/Drv/LinuxUartDriver/Events.fppi
+/home/chumnap/fprime-motorbridge/fprime-3.6/Drv/LinuxUartDriver/Telemetry.fppi
+/home/chumnap/fprime-motorbridge/fprime-3.6/Fw/Log/Log.fpp
+/home/chumnap/fprime-motorbridge/fprime-3.6/Fw/Tlm/Tlm.fpp

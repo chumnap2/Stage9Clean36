@@ -1,0 +1,5 @@
+
+/home/chumnap/fprime-motorbridge/fprime-3.6/Drv/LinuxUartDriver/LinuxUartDriver.cpp
+/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Drv/LinuxUartDriver/LinuxUartDriverComponentAi.xml;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Drv/LinuxUartDriver/LinuxUartDriverComponentAc.cpp;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Drv/LinuxUartDriver/LinuxUartDriverComponentAc.hpp
+/home/chumnap/fprime-motorbridge/fprime-3.6/Drv/LinuxUartDriver/LinuxUartDriver.fpp;/home/chumnap/fprime-motorbridge/fprime-3.6/Drv/Interfaces/ByteStreamDriverInterface.fppi;/home/chumnap/fprime-motorbridge/fprime-3.6/Drv/LinuxUartDriver/Events.fppi;/home/chumnap/fprime-motorbridge/fprime-3.6/Drv/LinuxUartDriver/Telemetry.fppi
+Os

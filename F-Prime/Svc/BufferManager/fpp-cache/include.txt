@@ -1,0 +1,2 @@
+/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/BufferManager/Events.fppi
+/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/BufferManager/Telemetry.fppi

@@ -1,0 +1,2 @@
+/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/FileUplink/Events.fppi
+/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/FileUplink/Telemetry.fppi

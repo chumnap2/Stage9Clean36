@@ -1,0 +1,10 @@
+/home/chumnap/fprime-motorbridge/fprime-3.6/Fw/Cmd/Cmd.fpp
+/home/chumnap/fprime-motorbridge/fprime-3.6/Fw/Com/Com.fpp
+/home/chumnap/fprime-motorbridge/fprime-3.6/Fw/Log/Log.fpp
+/home/chumnap/fprime-motorbridge/fprime-3.6/Fw/Tlm/Tlm.fpp
+/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/CmdSequencer/Commands.fppi
+/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/CmdSequencer/Events.fppi
+/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/CmdSequencer/Telemetry.fppi
+/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/Ping/Ping.fpp
+/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/Sched/Sched.fpp
+/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/Seq/Seq.fpp

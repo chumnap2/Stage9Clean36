@@ -1,0 +1,5 @@
+
+/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/PassiveConsoleTextLogger/ConsoleTextLoggerImplCommon.cpp
+/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/PassiveConsoleTextLogger/PassiveTextLoggerComponentAi.xml;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/PassiveConsoleTextLogger/PassiveTextLoggerComponentAc.cpp;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/PassiveConsoleTextLogger/PassiveTextLoggerComponentAc.hpp
+/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/PassiveConsoleTextLogger/PassiveConsoleTextLogger.fpp
+Fw/Logger

@@ -1,0 +1,5 @@
+
+/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/BufferManager/BufferManagerComponentImpl.cpp
+/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/BufferManager/BufferManagerComponentAi.xml;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/BufferManager/BufferManagerComponentAc.cpp;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/BufferManager/BufferManagerComponentAc.hpp
+/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/BufferManager/BufferManager.fpp;/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/BufferManager/Events.fppi;/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/BufferManager/Telemetry.fppi
+

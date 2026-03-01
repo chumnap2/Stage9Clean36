@@ -1,0 +1,5 @@
+
+/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/ActiveTextLogger/ActiveTextLogger.cpp;/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/ActiveTextLogger/LogFile.cpp
+/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/ActiveTextLogger/ActiveTextLoggerComponentAi.xml;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/ActiveTextLogger/ActiveTextLoggerComponentAc.cpp;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/ActiveTextLogger/ActiveTextLoggerComponentAc.hpp
+/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/ActiveTextLogger/ActiveTextLogger.fpp
+

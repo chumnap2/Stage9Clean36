@@ -1,0 +1,5 @@
+
+/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/PassiveRateGroup/PassiveRateGroup.cpp;/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/PassiveRateGroup/PassiveRateGroup.hpp
+/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/PassiveRateGroup/PassiveRateGroupComponentAi.xml;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/PassiveRateGroup/PassiveRateGroupComponentAc.cpp;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/PassiveRateGroup/PassiveRateGroupComponentAc.hpp
+/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/PassiveRateGroup/PassiveRateGroup.fpp
+

@@ -1,0 +1,5 @@
+
+/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/FileUplink/FileUplink.cpp;/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/FileUplink/File.cpp;/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/FileUplink/Warnings.cpp
+/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/FileUplink/FileUplinkComponentAi.xml;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/FileUplink/FileUplinkComponentAc.cpp;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/FileUplink/FileUplinkComponentAc.hpp
+/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/FileUplink/FileUplink.fpp;/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/FileUplink/Events.fppi;/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/FileUplink/Telemetry.fppi
+Os;Fw/Buffer;Fw/FilePacket;Utils/Hash;CFDP/Checksum

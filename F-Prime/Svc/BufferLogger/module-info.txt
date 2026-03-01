@@ -1,0 +1,5 @@
+
+/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/BufferLogger/BufferLogger.cpp;/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/BufferLogger/BufferLoggerFile.cpp
+/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/BufferLogger/BufferLoggerComponentAi.xml;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/BufferLogger/BufferLogger_LogStateEnumAi.xml;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/BufferLogger/BufferLoggerComponentAc.cpp;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/BufferLogger/BufferLoggerComponentAc.hpp;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/BufferLogger/BufferLogger_LogStateEnumAc.cpp;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/BufferLogger/BufferLogger_LogStateEnumAc.hpp
+/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/BufferLogger/BufferLogger.fpp;/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/BufferLogger/Commands.fppi;/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/BufferLogger/Events.fppi;/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/BufferLogger/Telemetry.fppi
+

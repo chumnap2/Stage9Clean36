@@ -1,0 +1,5 @@
+
+/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/CmdSplitter/CmdSplitter.cpp
+/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/CmdSplitter/CmdSplitterComponentAi.xml;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/CmdSplitter/CmdSplitterComponentAc.cpp;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/CmdSplitter/CmdSplitterComponentAc.hpp
+/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/CmdSplitter/CmdSplitter.fpp
+

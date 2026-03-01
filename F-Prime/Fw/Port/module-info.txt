@@ -1,0 +1,5 @@
+
+/home/chumnap/fprime-motorbridge/fprime-3.6/Fw/Port/InputPortBase.cpp;/home/chumnap/fprime-motorbridge/fprime-3.6/Fw/Port/InputSerializePort.cpp;/home/chumnap/fprime-motorbridge/fprime-3.6/Fw/Port/OutputPortBase.cpp;/home/chumnap/fprime-motorbridge/fprime-3.6/Fw/Port/OutputSerializePort.cpp;/home/chumnap/fprime-motorbridge/fprime-3.6/Fw/Port/PortBase.cpp
+
+
+Fw/Cfg;Fw/Types;Fw/Logger;Fw/Obj

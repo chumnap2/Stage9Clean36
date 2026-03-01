@@ -1,0 +1,5 @@
+
+/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/StaticMemory/StaticMemoryComponentImpl.cpp
+/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/StaticMemory/StaticMemoryComponentAi.xml;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/StaticMemory/StaticMemoryComponentAc.cpp;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/StaticMemory/StaticMemoryComponentAc.hpp
+/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/StaticMemory/StaticMemory.fpp
+

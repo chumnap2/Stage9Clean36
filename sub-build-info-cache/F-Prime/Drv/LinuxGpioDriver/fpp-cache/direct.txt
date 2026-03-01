@@ -1,0 +1,5 @@
+/home/chumnap/fprime-motorbridge/fprime-3.6/Drv/Interfaces/GpioInterface.fppi
+/home/chumnap/fprime-motorbridge/fprime-3.6/Drv/Ports/GpioDriverPorts.fpp
+/home/chumnap/fprime-motorbridge/fprime-3.6/Fw/Log/Log.fpp
+/home/chumnap/fprime-motorbridge/fprime-3.6/Os/Models/File.fpp
+/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/Cycle/Cycle.fpp

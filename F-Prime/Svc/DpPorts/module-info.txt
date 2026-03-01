@@ -1,0 +1,5 @@
+
+
+/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/DpPorts/DpWrittenPortAi.xml;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/DpPorts/DpWrittenPortAc.cpp;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/DpPorts/DpWrittenPortAc.hpp
+/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/DpPorts/DpPorts.fpp
+Fw/Types;Fw/Port

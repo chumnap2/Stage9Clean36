@@ -1,0 +1,5 @@
+
+
+/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/Fatal/FatalEventPortAi.xml;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/Fatal/FatalEventPortAc.cpp;/home/chumnap/fprime-motorbridge/fprime-3.6/Stage9Clean36/F-Prime/Svc/Fatal/FatalEventPortAc.hpp
+/home/chumnap/fprime-motorbridge/fprime-3.6/Svc/Fatal/Fatal.fpp
+Fw/Port
