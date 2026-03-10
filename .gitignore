@@ -1,0 +1,13 @@
+# F' & CMake build artifacts
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+install_manifest*.txt
+locs.fpp
+bin/
+lib/
+build/
+*.o
+*.so
+*.user
+*.swp
