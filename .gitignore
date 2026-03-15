@@ -1,0 +1,19 @@
+# F′ build artifacts
+build/
+build-*/
+
+# Generated build folders in Deployments
+Deployments/Linux/
+Deployments/*/CMakeFiles/
+Deployments/*/CMakeCache.txt
+Deployments/*/*.o
+
+# Python venv
+fprime-3.10-venv/
+venv/
+*.venv/
+
+# Logs & temp
+*.log
+*.swp
+*.DS_Store

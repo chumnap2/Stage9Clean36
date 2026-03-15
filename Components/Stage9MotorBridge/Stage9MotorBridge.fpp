@@ -1,0 +1,3 @@
+component Stage9MotorBridge
+{
+}
